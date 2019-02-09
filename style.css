@@ -1,0 +1,217 @@
+*{
+	padding:0;
+	margin:0;
+}
+body{
+	font-family:sans-serif;
+}
+#nav-bar{
+	position:static;
+	top:10px;
+	z-index:10;
+	
+}
+.navbar{
+	background-color:white;
+	padding:0 !important;
+}
+.navbar-brand{
+	padding-left:20px;
+}
+.navbar-nav li{
+	padding:0 10px;
+}
+.navbar-nav li a{
+	color:black !important;
+	font-weight:600;
+	float:right;
+	text-align:center;
+}
+	/*-------*/
+.banner{
+	background-color:white;
+	color:black;
+	padding-top:5px;
+}
+.pshow{
+	font-size:40px;
+	font-weight:600;
+	margin-top:100px;
+}
+.ply-btn{
+	margin:20px;
+}
+.banner a{
+	text-decoration:none;
+	color:black;
+}
+.img-fluid{
+	width:100%;
+}
+.SERVICES{
+	padding:80px 0;
+}
+.img_ser{
+	width:100%;
+	padding-top:20px;
+}
+h4{
+	padding:5px;
+	margin-top:20px;
+	text-transform:upper-alpha;
+}
+.title::before{
+	content:'';
+	background:black;
+	height:5px;
+	width:200px;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+	
+}
+.title::after{
+	content:'';
+	background:black;
+	height:5px;
+	width:200px;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;	
+}
+#SERVICES.btn-primary{
+	box-shadow:none;
+	padding:20px 25px;
+	border:none;
+	color:red;
+}
+#about-us{
+	background:white;
+	padding-bottom:50px;
+	padding-top:50px;
+}
+.about{
+	font-size:40px;
+	font-weight:600px;
+	margin-top:8%;
+}
+#about-us ul li{
+	margin:10px 0;
+}
+#about-us ul{
+	margin-left:20px;
+}
+#Testimonials{
+	margin:100px 0;
+}
+.testimonials{
+	border-left:4px solid black;
+	margin-bottom:50px;
+	margin-top:50px;
+}
+.testimonials img{
+	border-radius:50%;
+	margin:0 10px;
+}
+.user{
+display:inline-block;
+font-size:12px;
+}
+#social-media{
+background:white;
+padding:100px 0;
+}
+#social-media p{
+	font-size:36px;
+	font-weight:600;
+	margin-bottom:30px;
+}
+.social-icons img{
+	width:60px;
+	transitaion:0.5s;
+}
+	
+
+	
+.social-icons a:hover img{
+	transform:translatey(-10px);
+}
+	
+#footer{
+background-color:white;
+color:black;
+}
+.footer-img{
+width:100%;
+}
+.footer-box{
+	padding:20px;
+}
+.footer-box img{
+	width:120px;
+margin-border:20px;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
